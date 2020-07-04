@@ -1,0 +1,12 @@
+[contenteditable] {
+    color: red;
+    border: 1px dashed black;
+}
+
+[src] {
+    border: 10px dashed red;
+}
+
+[href] {
+    border: 2px dashed green;
+}
