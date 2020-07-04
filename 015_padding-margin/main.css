@@ -1,0 +1,28 @@
+div{
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+    border-radius: 25%;
+    display: inline-block;
+    margin: 20px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border: 2px dashed mediumspringgreen;
+    padding: 20px;
+    margin: 20px;
+}
+.one{
+    border: 2px groove maroon;
+}
+.two{
+    border: 2px dotted chocolate;
+
+}
+.three{
+    border: 2px solid green;
+    padding: 50px;
+    margin: 20px;
+}

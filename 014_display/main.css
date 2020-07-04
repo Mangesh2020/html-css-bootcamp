@@ -1,0 +1,29 @@
+div{
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+img{
+    border: 2px dotted mediumspringgreen;
+    height: 300px;
+    width: 300px;
+    border-radius: 0%;
+
+}
+
+.one{
+    border: 5px solid orangered;
+    border-radius: 25%;
+}
+
+.two{
+    border: 5px dashed purple;
+    border-radius: 50%;
+}
+
+.three{
+    border: 5px groove chocolate;
+    border-radius: 100%;
+}
