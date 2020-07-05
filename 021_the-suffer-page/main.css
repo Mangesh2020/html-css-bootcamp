@@ -1,0 +1,18 @@
+html{
+    background-color: #b3d4fc;
+}
+
+body{
+    width:60%;
+    margin: 0 auto;
+    background-color: #00C957;
+    border: 3px solid black;
+}
+
+img{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 10px ridge gold;
+}
