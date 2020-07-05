@@ -1,0 +1,7 @@
+p::first-line{
+    color: #FF0000;
+}
+
+p:first-letter{
+   font-size: 50px ;
+}
