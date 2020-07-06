@@ -1,0 +1,20 @@
+h1{
+    font-size: 30px;
+
+}
+
+h2{
+    font-weight: bold;
+}
+
+h3{
+    font-style: italic;
+}
+
+h4{
+    font-variant: small-caps;
+}
+
+h5{
+    text-transform: uppercase;
+}
