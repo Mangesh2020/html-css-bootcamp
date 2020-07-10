@@ -1,0 +1,24 @@
+*{
+    border: 2px solid crimson;
+}
+
+div{
+    height:50px ;
+    width: 100px;
+    border:2px solid black;
+    border-radius: 50px;
+    display: inline;
+}
+
+#one{
+    background-color: #00C957;
+}
+#two{
+    background-color: #FFD700;
+}
+#one{
+    background-color: #0000FF;
+}
+#one{
+    background-color: #FF0000;
+}

@@ -1,0 +1,11 @@
+div,p{
+    border: 2px solid coral;
+    padding: 10px;
+    margin: 10px;
+    /* display:block;*/
+}
+
+span{
+    color: royalblue;
+    /*display:inline;*/
+}
