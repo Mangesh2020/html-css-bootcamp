@@ -1,0 +1,45 @@
+* {
+    /*border: 5px solid hotpink !important;*/
+}
+
+html, body, div, button {
+    padding: 0;
+    /*border: 0;*/
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 2vw;
+}
+
+#atf {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tabs {
+    width: 40rem;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: .1rem solid darkgray;
+}
+
+button {
+    /* item */
+    flex-grow: 1;
+    /* formatting */
+    font-size: 1.6rem;
+    height: 4.8rem;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+    border-bottom: .2rem solid transparent;
+}
+
+button:hover {
+    border-bottom: .2rem solid darkturquoise;
+}
+
